@@ -1,0 +1,27 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB binary outputs and figures
+*.mat
+*.fig
+
+# Logs and local run traces
+*.log
+*_log*.txt
+next_stage*
+formal_*
+
+# Output result directories
+results/
+
+# Local app/cache folders
+matlab_appdata/
+Local/
+Roaming/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
