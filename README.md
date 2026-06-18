@@ -10,7 +10,7 @@ This repository provides the implementation code, benchmark scripts, parameter s
 - Plotting scripts
 
 ## Requirements
-MATLAB R20XX or later
+MATLAB R2020 or later
 
 ## Usage
 Run the main scripts in each experiment folder to reproduce the reported results.
